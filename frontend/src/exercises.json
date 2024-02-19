@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "Push-ups",
+      "description": "Perform 3 sets of 10 push-ups",
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "title": "Squats",
+      "description": "Do 4 sets of 12 squats",
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "title": "Plank",
+      "description": "Hold a plank position for 1 minute",
+      "isCompleted": true
+    }
+  ]
